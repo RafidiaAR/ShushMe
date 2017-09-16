@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ringer_permissions_checkbox" type="id">Ringer Permissions</item>
+</resources>
